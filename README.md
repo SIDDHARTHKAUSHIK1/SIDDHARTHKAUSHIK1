@@ -24,8 +24,7 @@ Email Me 👉 ✉️ sidd2004.sk@gmail.com For Collaboration/Project or Anything
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 
 # 📊 GitHub Stats:
