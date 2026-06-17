@@ -1,4 +1,16 @@
+💫 Hi 👋, I'm Siddharth Kaushik
+A passionate Cloud Engineer || DevOps Engineer 
 
+Email Me 👉 ✉️ sidd2004.sk@gmail.com For Collaboration/Project or Anything Else. 😊😊
+
+🔭 I’m currently working on: Enter your project info here
+🌱 I’m currently learning: Enter your tech here
+👯 I’m looking to collaborate on: Enter your project name and info
+🤔 I’m looking for help with: Your project here
+💬 Ask me about: Collaboration, Tech Support
+📫 How to reach me: Enter your email here
+😄 Pronouns: Siddharth
+⚡ Fun fact: I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/siddharth.kaushik.3745) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siddharth.kaushik.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharthkaushik1) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Siddharth-Kaushik-78) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/SIDDHARTHK1) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/siddharth-kaushik) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/siddharthkaushik1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SIDDHARTHK4731) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Redrider2004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sidd2004.sk@gmail.com) 
 
