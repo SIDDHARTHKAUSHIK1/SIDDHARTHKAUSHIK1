@@ -15,7 +15,7 @@
 ⚡ Fun fact: I love Tech, and Tech loves me!
 
 🌐 Portfolio & Projects
-🌐 Check out my portfolio: siddk1-portfolio.vercel.app
+🌐 Check out my portfolio: [siddk1-portfolio.vercel.app](https://siddk1-portfolio.vercel.app/)
 
 Explore my latest projects, technical stack, and engineering work! 🚀✨
 
